@@ -1,0 +1,7 @@
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\bin\Debug\PluginLibrary.dll
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\bin\Debug\PluginLibrary.pdb
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.dll
+C:\Projects\SolutionForPluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.pdb
